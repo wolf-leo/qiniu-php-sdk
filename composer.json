@@ -1,5 +1,5 @@
 {
-    "name": "qiniu/php-sdk",
+    "name": "wolfcode/php-sdk",
     "type": "library",
     "description": "Qiniu Resource (Cloud) Storage SDK for PHP",
     "keywords": [
