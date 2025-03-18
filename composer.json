@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Qiniu\\": "src/Qiniu"
+            "Wolfcode\\QiniuPhpSdk\\": "src/Qiniu"
         }
     },
     "minimum-stability": "dev"
